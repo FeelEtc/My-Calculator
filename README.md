@@ -1,2 +1,2 @@
-# PORTFOLIO
-My projects
+# CALCULATOR
+One of my first projects
